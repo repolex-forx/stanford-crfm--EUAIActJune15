@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/stanford-crfm/EUAIActJune15/commit/2adeb78ed2ec26494fb8e6b0a166ad2d037e30c9",
       "git:hexsha": "2adeb78ed2ec26494fb8e6b0a166ad2d037e30c9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
